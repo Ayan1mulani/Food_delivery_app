@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "227647439008",
+    "project_id": "foodcourt-79dcf",
+    "storage_bucket": "foodcourt-79dcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227647439008:android:ceb1c61d92690df19a89c5",
+        "android_client_info": {
+          "package_name": "com.example.food_court"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd_W74AtNqoodKNcGsMFcv8VOa9hOuvPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
